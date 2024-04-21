@@ -1,7 +1,7 @@
 {
-   "name": "SilentTyping",
+   "name": "InQuest",
    "version": "1.0.0",
-   "description": "Silences your typing indicator.",
+   "description": "A cool game that runs in discord!",
    "authors": [
       {
          "name": "eternal",
