@@ -107,8 +107,8 @@ o.FormTextSizes;
 
 function I(e){return window.enmity.patcher.create(e)}
 
-var M="Catgirls",
-    R="2.0.2",
+var M="InQuest",
+    R="1.0.0",
     N="Sends images from the nekos.life API. \u0E05\u2022\u03C9\u2022\u0E05",
     L=[{name:"beerpsi, byeoon",id:"1167275288036655133"}],
     P="#00007d",
